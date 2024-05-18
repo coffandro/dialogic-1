@@ -21,7 +21,7 @@ Create dialogs, characters and scenes to display conversations in your Godot gam
 -----
 ## Getting started
 
-You can read a step by step guide on how to use [Dialogic here](https://github.com/coppolaemilio/dialogic/blob/dialogic-1/addons/dialogic/Documentation/Content/Tutorials/BeginnersGuideStepByStep.md)
+You can read a step by step guide on how to use [Dialogic here](https://github.com/dialogic-godot/dialogic-1/blob/main/addons/dialogic/Documentation/Content/Tutorials/BeginnersGuideStepByStep.md)
 
 ## 📚 Documentation
 You can check the documentation from inside the plugin or [here](https://github.com/coppolaemilio/dialogic/blob/dialogic-1/addons/dialogic/Documentation/Content/Welcome.md)
