@@ -2,7 +2,7 @@
 
 Create dialogs, characters and scenes to display conversations in your Godot games. 
 
-[Changelog](https://github.com/coppolaemilio/dialogic/blob/dialogic-1/addons/dialogic/Documentation/Content/Changelog.md) — 
+[Changelog](https://github.com/dialogic-godot/dialogic-1/blob/main/addons/dialogic/Documentation/Content/Changelog.md) -
 [Installation](#installation) — 
 [Documentation](https://github.com/coppolaemilio/dialogic/blob/dialogic-1/addons/dialogic/Documentation/Content/Welcome.md) — 
 [Credits](#credits)
